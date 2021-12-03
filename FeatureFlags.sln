@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlag.Api", "FeatureFlag.Api\FeatureFlag.Api.csproj", "{70D49D51-798D-407C-967A-61143B6A9713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcoms.Config", "Alcoms.Config\Alcoms.Config.csproj", "{D78BE119-F178-4138-B456-1BDF6CFA3412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D49D51-798D-407C-967A-61143B6A9713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D49D51-798D-407C-967A-61143B6A9713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D49D51-798D-407C-967A-61143B6A9713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D49D51-798D-407C-967A-61143B6A9713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78BE119-F178-4138-B456-1BDF6CFA3412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78BE119-F178-4138-B456-1BDF6CFA3412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78BE119-F178-4138-B456-1BDF6CFA3412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78BE119-F178-4138-B456-1BDF6CFA3412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
